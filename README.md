@@ -1,3 +1,4 @@
-# test
+# Решение тестового задания для курса "frontend разработкa на shopify".
 
-It will be updated later
+В данном проекте находятся решения для 3-х частей тестового задания, доступного по [ссылке](https://us11.besteml.com/ru/tr/?uid=NTAzODM0OQ~~&hash=UbsDJ9aXeZC4UVIn6P5PLeuuqmFoSrLO1-9WUFRtxMbVRpCowY80RY1cAzHpKLCzjqAA_n4MxBjFkEyQ8g1NG_jGEHHmwbIYzluK7My1j1GPk7Cu_O3Nw_xfvBrlQFkESKLoMUgPloePk7Cu_O3Nw2FYIdm-N_tglC5nQSuLcYCC3MI_bWEzh-Yq15z1lrzp7P576wpxGU1h2zmZKb30JUcdTeJOnMMXd2h4q3kKVfk~&url=aHR0cHM6Ly9kaXNrLnlhbmRleC5ieS9kL1hmV0k0YS13LVRXSVl3P3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1VbmlzZW5kZXI~&ucs=bbe1bd91f7041cd180e663583d7469d6).
+
